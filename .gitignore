@@ -1,0 +1,2 @@
+*.csv #any file that is a csv
+results/ # anything that is in the results directory
